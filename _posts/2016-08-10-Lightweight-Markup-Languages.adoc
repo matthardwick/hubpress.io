@@ -1,0 +1,5 @@
+= Lightweight Markup Languages
+Doc Writer <doc.writer@asciidoc.org>
+v1.0, 2012-01-01
+
+According to Wikipedia...
